@@ -1,0 +1,8 @@
+.flex-box{
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+}
+.card{
+  position: absolute;
+}

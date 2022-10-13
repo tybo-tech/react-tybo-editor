@@ -1,0 +1,28 @@
+.navigation{
+  width: 240px;
+  background: #fff;
+  padding: 1px;
+}
+
+._container{
+  padding: 0 .5rem;
+}
+
+p{
+  text-transform: uppercase;
+font-weight: 600;
+font-size: .7rem;
+cursor: pointer;
+padding: 2px 0;
+}
+.far-flex
+{
+  width: 4px;
+  height: 6px;
+  background: #000;
+  position: relative;
+  display: inline;
+}
+.bi{
+  margin-right: .4rem;
+}
